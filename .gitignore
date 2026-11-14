@@ -1,0 +1,27 @@
+# Keil uVision / MDK-ARM build outputs
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.htm
+*.lnp
+*.lst
+*.map
+*.sct
+*.tra
+*.plg
+*.dep
+*.iex
+*._1i
+*.bak
+*.Bak
+*.uvguix.*
+*.uvgui.*
+*.uvoptx.bak
+JLinkLog.txt
+Objects/
+Listings/
+MDK-ARM/STM324xG_EVAL/
+MDK-ARM/STM324x7I_EVAL/
